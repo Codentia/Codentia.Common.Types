@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading;
-using MattchedIT.Common;
+using Codentia.Common;
 using NUnit.Framework;
 
-namespace MattchedIT.Common.Types.Test
+namespace Codentia.Common.Types.Test
 {
     /// <summary>
     /// Unit testing framework for SingleThreadedServiceBaseTest class.

@@ -1,4 +1,4 @@
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// This interface must be implemented by all objects which are to be treated as Addresses

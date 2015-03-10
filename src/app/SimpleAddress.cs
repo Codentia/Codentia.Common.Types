@@ -1,4 +1,4 @@
-﻿namespace MattchedIT.Common
+﻿namespace Codentia.Common
 {
     /// <summary>
     /// SimpleAddress is a basic address-holding class confirming to <see cref="IAddress"/>

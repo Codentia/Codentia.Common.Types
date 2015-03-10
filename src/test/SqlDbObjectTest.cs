@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using NUnit.Framework;
 
-namespace MattchedIT.Common.Types.Test
+namespace Codentia.Common.Types.Test
 {
     /// <summary>
     /// SqlDbObject Test 

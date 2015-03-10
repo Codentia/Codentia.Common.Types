@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// InvalidEmailAddressException class - exception class for Email Validation

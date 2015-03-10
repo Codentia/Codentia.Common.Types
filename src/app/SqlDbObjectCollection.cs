@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {       
     /// <summary>
     /// Collection of data regarding SqlDbOjects

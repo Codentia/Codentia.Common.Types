@@ -7,7 +7,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// This class extends the system ServiceBase class, providing a service wrapper which handles stop/start and wait behaviour.

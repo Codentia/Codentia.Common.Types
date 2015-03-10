@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace MattchedIT.Common.Types.Test
+namespace Codentia.Common.Types.Test
 {
     /// <summary>
     /// Unit testing framework for exceptions

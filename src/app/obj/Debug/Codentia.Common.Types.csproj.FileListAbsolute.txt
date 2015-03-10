@@ -1,0 +1,6 @@
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\bin\Debug\Codentia.Common.Types.XML
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\bin\Debug\Codentia.Common.Types.dll
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\bin\Debug\Codentia.Common.Types.pdb
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\obj\Debug\Codentia.Common.Types.csprojResolveAssemblyReference.cache
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\obj\Debug\Codentia.Common.Types.dll
+C:\Work\Codentia\Source\Github\Master\Codentia.Common.Types\src\app\obj\Debug\Codentia.Common.Types.pdb
