@@ -41,7 +41,7 @@ namespace MattchedIT.Common
         /// </summary>
         protected internal SingleThreadedServiceBase()
         {
-            NameValueCollection configuration = (NameValueCollection)ConfigurationManager.GetSection("MattchedIT.Common.Service/ServiceBase");
+            NameValueCollection configuration = (NameValueCollection)ConfigurationManager.GetSection("Codentia.Common.Service/ServiceBase");
             if (configuration != null)
             {
                 IEnumerator configEnumerator = configuration.Keys.GetEnumerator();
