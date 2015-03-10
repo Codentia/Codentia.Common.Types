@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// Represents a set of contact details

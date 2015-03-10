@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// Types of Modes which can be used in FrontUp

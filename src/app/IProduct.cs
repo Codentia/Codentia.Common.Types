@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// Common Interface describing a "product" - used for import/export/transfer of product data

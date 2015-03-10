@@ -1,4 +1,4 @@
-﻿namespace MattchedIT.Common
+﻿namespace Codentia.Common
 {
     /// <summary>
     /// Order Interface

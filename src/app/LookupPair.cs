@@ -1,4 +1,4 @@
-namespace MattchedIT.Common
+namespace Codentia.Common
 {
     /// <summary>
     /// This struct represents a lightweight key/value pair, used for populating simple datastructures and controls.

@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace MattchedIT.Common.Types.Test
+namespace Codentia.Common.Types.Test
 {
     /// <summary>
     /// Unit Tests for SimpleAddress class
